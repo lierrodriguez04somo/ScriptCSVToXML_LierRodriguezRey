@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hgo1qqgdY74=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lier\\dataacces\\ConsoleApp5\\ConsoleApp5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lier\\.nuget\\packages\\system.diagnostics.eventlog\\11.0.0\\system.diagnostics.eventlog.11.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
